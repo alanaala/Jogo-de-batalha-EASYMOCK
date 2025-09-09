@@ -27,10 +27,10 @@ O objetivo é praticar o uso do **EasyMock** para simular interações entre cla
 src/
 ├── main/
 │   └── java/
-│       ├── Atacante.java
-│       ├── Defensor.java
-│       ├── Magia.java
-│       └── Combate.java
+│      ├── Atacante.java
+│      ├── Defensor.java
+│      ├── Magia.java
+│      └── Combate.java
 │
 └── test/
 └── java/
