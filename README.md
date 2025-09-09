@@ -22,22 +22,6 @@ O objetivo é praticar o uso do **EasyMock** para simular interações entre cla
 
 ---
 
-## Estrutura do Projeto
-
-src/
-├── main/
-│   └── java/
-│      ├── Atacante.java
-│      ├── Defensor.java
-│      ├── Magia.java
-│      └── Combate.java
-│
-└── test/
-└── java/
-└── CombateTest.java
-
----
-
 ## Casos de Teste Implementados
 
 ### Teste 1: Ataque Simples
